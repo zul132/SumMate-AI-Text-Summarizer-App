@@ -1,0 +1,8 @@
+.env
+node_modules
+.config
+.cache
+.upm
+.replit
+replit_zip_error_log.txt
+replit.nix
